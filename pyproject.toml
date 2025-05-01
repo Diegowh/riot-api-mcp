@@ -1,0 +1,7 @@
+[project]
+name = "riot-api-mcp"
+version = "0.1.0"
+description = "MCP Tool for Riot Games"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
